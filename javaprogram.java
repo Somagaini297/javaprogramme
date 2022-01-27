@@ -1,7 +1,5 @@
-class javaprogram
-{
-public static void main(String[]args)
-{
-System.out.println("This is my first java program");
-}
+public class helloworldjava {
+   public static void main(String[] args) {
+    System.out.println("Hello World from DevOps by jagadeesh");
+    }
 }
